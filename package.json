@@ -1,0 +1,22 @@
+{
+  "name": "projeto-cypress-da-alura",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MQuaresma265/primeiro-projeto-cypress-alura.git"
+  },
+  "author": "Márcio Quaresma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MQuaresma265/primeiro-projeto-cypress-alura/issues"
+  },
+  "homepage": "https://github.com/MQuaresma265/primeiro-projeto-cypress-alura#readme",
+  "devDependencies": {
+    "cypress": "^12.10.0"
+  }
+}
